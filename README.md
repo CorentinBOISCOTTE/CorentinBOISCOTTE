@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corentinboiscotte" alt="corentinboiscotte" /></a> </p>
 
-- 🔭 I’m currently working on **The Cooler Engine™**
+- 🔭 I’m currently working on **KRHI**
 
 - 🌱 I’m currently learning **C, C++, C#, GLSL, Python, Game Engine development**
 
